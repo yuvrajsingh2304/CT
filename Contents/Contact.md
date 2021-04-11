@@ -2,4 +2,4 @@
 
 For any queries, write at
 
-**gndec.yjs@gmail.com**
+**yjs.gndec@gmail.com**
