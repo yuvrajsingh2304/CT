@@ -1,5 +1,5 @@
-# Contact Us
+# Contact
 
-For any queries, write us at  
+For any queries, write at
 
-[gndec.yjs@gmail.com](gndec.yjs@gmail.com)
+**gndec.yjs@gmail.com**
