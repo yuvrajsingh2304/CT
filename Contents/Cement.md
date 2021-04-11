@@ -1,5 +1,5 @@
 # Cement & it's properties
 
-### [Cement](Cement.pdf)
+### [Cement](pdf/Cement.pdf)
 
-### [Properties of Cement](PoC.pdf)
+### [Properties of Cement](pdf/PoC.pdf)
