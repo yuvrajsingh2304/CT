@@ -4,6 +4,6 @@
 
 ![Bridge](Contents/Images/1Bridge.jpg)
 
-**VISITOR COUNT**
+***VISITOR COUNT***
 
 ![Visitor Count](https://profile-counter.glitch.me/yuvrajsingh2304/count.svg)
