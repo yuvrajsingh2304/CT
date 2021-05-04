@@ -34,7 +34,9 @@
 
 - **[IS 383 : 1970 - Coarse & fine aggregate for concrete - Specifications](pdf/Codes/Aggregates/IS_383.pdf)**
 
-- **[IS 2386 (Part 3) : 1963 - Methods of test for aggregate for specific gravity, density, voids, absorption & bulking](pdf/Codes/Aggregates/IS_383.pdf)**
+- **[IS 2386 (Part 1) : 1963 - Methods of test for aggregate for Concrete: Part 1 Particle Size and Shape ](pdf/Codes/Aggregates/IS_2386_1.pdf)**
+
+- **[IS 2386 (Part 3) : 1963 - Methods of test for aggregate for specific gravity, density, voids, absorption & bulking](pdf/Codes/Aggregates/IS_2386_3.pdf)**
 
 ## Admixtures
 
