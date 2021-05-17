@@ -6,6 +6,14 @@
 
 - **[IS 456 : 2000 - Indian Standard: Plain and Reinforced Concrete - Code of Practice](pdf/Codes/IS_456.pdf)**
 
+- **[IS 1199 : 1959 - Indian Standard: Methods of Sampling & Analysis of Concrete](pdf/Codes/IS_1199_1959.pdf)**
+
+- **[IS 516 : 1959 - Indian Standard: Methods of test for Strength of Concrete](pdf/Codes/IS_516_1959.pdf)**
+
+- **[IS 13311 (Part 1) : 1992 - Indian Standard: Non-Destructive Testing of Concrete - Methods of Test (UPV)](pdf/Codes/IS_13311_1_1992.pdf)**
+
+- **[IS 13311 (Part 2) : 1992 - Indian Standard: Non-Destructive Testing of Concrete - Methods of Test (Rebound Hammer)](pdf/Codes/IS_13311_2_1992.pdf)**
+
 ## Concrete Mix Design
 
 - **[IS 10262 : 2019 - Concrete Mix Design - Guidelines](pdf/Codes/IS_10262_2019.pdf)**
