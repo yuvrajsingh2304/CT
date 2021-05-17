@@ -53,7 +53,7 @@
   - **[Permeability of Concrete](pdf/Inspection/Permrability_of_Concrete.pdf)**
   - **[Carbonation & Chlorination of Concrete](pdf/Inspection/Carbonation_and_Chlorination.pdf)**  
   - **[Chemical Test of Concrete](pdf/Inspection/Chemical_test.pdf)**
-  - **[Rapid Chloride ion penetration](pdf/Inspection/RCPT.pdf)
+  - **[Rapid Chloride ion penetration](pdf/Inspection/RCPT.pdf)**
 - **Non-Destructive Testing of Concrete**
   - **[Introduction to Non-Destructive Testing (NDT)](pdf/Inspection/Introduction_NDT.pdf)**
   - **[Video Demonstrations - NDT on Concrete](Test/NDT.md)**
